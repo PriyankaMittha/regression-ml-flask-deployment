@@ -32,7 +32,9 @@
 
     </form>
 
-    <h2>The FWI prediction is {{ "%.2f"|format(result) }}</h2>
+    {% if result %}
+        <h2>The FWI prediction is {{ "%.2f"|format(result) }}</h2>
+    {% endif %}
 
 </div>
 
