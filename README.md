@@ -48,7 +48,7 @@ regression-ml-flask-deployment
 Clone the repository
 
 ```bash
-git clone https://github.com/your-username/regression-ml-flask-deployment.git
+git clone (https://github.com/PriyankaMittha/regression-ml-flask-deployment)
 ```
 
 Install dependencies
