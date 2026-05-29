@@ -1,4 +1,4 @@
-# Regression Models Machine Learning Project
+# Weather Forecast App
 
 This project demonstrates the implementation of multiple regression algorithms using Python and Scikit-Learn. The trained model is deployed using a Flask web application for predictions.
 
